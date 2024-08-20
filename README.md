@@ -18,6 +18,9 @@
 - [美团篇]
   - [【面试题解答】美团-大模型算法工程师面经一面试题解答 （一）](https://mp.weixin.qq.com/s/iu1M0T6rS-Fql6WLaR6BWw)
   - [【面试题解答】美团大模型算法面，凉凉！！！一面试题解答（二）](https://mp.weixin.qq.com/s/vICfFA-afHpeJT_85ggOBg)
+  - [【面试题解答】 美团-大模型算法工程师-面经（四）](https://articles.zsxq.com/id_uutqmsltdame.html)
+  - [【面试题解答】 美团-大模型算法工程师-面经（五）](https://articles.zsxq.com/id_pqgi7439hqgi.html)
+  - [【面试题解答】 美团-大模型算法工程师-面经（六）](https://articles.zsxq.com/id_ok3cp9sgm36l.html)
 - [腾讯篇]
   - [【面试题解答】腾讯大模型算法实习生面试题一面试题解答（一）](https://mp.weixin.qq.com/s/0Zri9lgggpv3kDnYz0KLlA)
 - [阿里篇]
@@ -74,24 +77,50 @@
 
 ### 大模型算法岗面试题（未包含答案）
 
-- [【面试题】腾讯算法面试题汇总](https://articles.zsxq.com/id_0b9g756w8vnv.html)
-- [【面试题】百度自然语言处理面试题汇总](https://articles.zsxq.com/id_95x3am8gkfs0.html)
-- [【面试题】美团算法面试题汇总](https://articles.zsxq.com/id_n2clat58iuli.html)
-- [【面试题】荣耀算法面试题汇总](https://articles.zsxq.com/id_i1nctpe2omd4.html)
-- [【面试题】太初算法面试题汇总](https://articles.zsxq.com/id_hnsd2wqigw58.html)
-- [【面试题】长亭科技大模型算法工程师面试题](https://articles.zsxq.com/id_whqpje6ulknr.html)
-- [【面试题】网易算法面试题汇总](https://articles.zsxq.com/id_vs6gpqowtk3v.html)
-- [【面试题】科大讯飞算法面试题汇总](https://articles.zsxq.com/id_uj5vo4sakkds.html)
-- [【面试题】SHEIN 算法面试题汇总](https://articles.zsxq.com/id_73whcf53adtj.html)
-- [【面试题】滴滴算法面试题汇总](https://articles.zsxq.com/id_fsh1dw4mmeq3.html)
-- [【面试题】OPPO算法面试题汇总](https://articles.zsxq.com/id_9mf1naj4slfc.html)
-- [【面试题】金山 大模型算法工程师面试题](https://articles.zsxq.com/id_muckas6i6f9b.html)
-- [【面试题】平安科技 大模型算法工程师面试题](https://articles.zsxq.com/id_0sp8g6bww9dq.html)
-- [【面试题】海康威视 大模型算法工程师面试题](https://articles.zsxq.com/id_3kd9r8ii9vod.html)
-- [【面试题】理想汽车大模型算法工程师面试题](https://articles.zsxq.com/id_2go0kqh0q5ox.html)
-- [【面试题】淘天算法面试题汇总](https://articles.zsxq.com/id_4wnrmj8nwtnl.html)
-- [【面试题】快手算法面试题汇总](https://articles.zsxq.com/id_ol7zhw4l73rz.html)
-- [【面试题】搜狐算法面试题汇总](https://articles.zsxq.com/id_q6svcm1ltpkf.html)
+- 【阿里系】
+  - [【面试题】蚂蚁【大模型-codefuse】大模型大模型岗位面试经验](https://articles.zsxq.com/id_b11z77gsffpb.html)
+  - [【面试题】阿里巴巴国际部大模型大模型岗位面试经验](https://articles.zsxq.com/id_kcmjr23zs34a.html)
+  - [【面试题】蚂蚁风控大模型岗位面试经验](https://articles.zsxq.com/id_uehv3gwkje02.html)
+  - [【面试题】阿里控股大模型岗位面试经验](https://articles.zsxq.com/id_d57gtukrzedh.html)
+  - [【面试题】淘天大模型岗位面试经验](https://articles.zsxq.com/id_d5xgl3wrvsde.html)
+- 【腾讯】
+  - [【面试题】腾讯-混元大模型大模型岗位面试经验](https://articles.zsxq.com/id_qhwbu1xxf1gc.html)
+  - [【面试题】腾讯算法面试题汇总](https://articles.zsxq.com/id_0b9g756w8vnv.html)
+  - [【面试题】淘天算法面试题汇总](https://articles.zsxq.com/id_4wnrmj8nwtnl.html)
+- 【字节】
+  - [【面试题解答】快手-大模型算法工程师-面经](https://articles.zsxq.com/id_5oci4qtkqikd.html)
+  - [【面试题】快手算法面试题汇总](https://articles.zsxq.com/id_ol7zhw4l73rz.html)
+  - [【面试题】字节AML大模型岗位面试经验](https://articles.zsxq.com/id_g0coogtzvsot.html)
+- 【百度】
+  - [【面试题】百度自然语言处理面试题汇总](https://articles.zsxq.com/id_95x3am8gkfs0.html)
+- 【美团】
+  - [【面试题】美团算法面试题汇总](https://articles.zsxq.com/id_n2clat58iuli.html)
+  - [【面试题】美团大模型岗位面试经验](https://articles.zsxq.com/id_tg94jonm1mo9.html)
+- 【网易】
+  - [【面试题】网易实验室大模型大模型岗位面试经验](https://articles.zsxq.com/id_spq4bto63knr.html)
+  - [【面试题】网易算法面试题汇总](https://articles.zsxq.com/id_vs6gpqowtk3v.html)
+- 【零一万物】
+  - [【面试题】零一万物大模型岗位面试经验](https://articles.zsxq.com/id_c1vtv2ufsrzw.html)
+- 【OPPO】
+  - [【面试题】OPPO算法面试题汇总](https://articles.zsxq.com/id_9mf1naj4slfc.html)
+- 【搜狐】
+  - [【面试题】搜狐算法面试题汇总](https://articles.zsxq.com/id_q6svcm1ltpkf.html)
+- 【其他】
+  - [【面试题】Momenta大模型大模型岗位面试经验](https://articles.zsxq.com/id_jchmw0p3vwv6.html)
+  - [【面试题】潞晨科技大模型岗位面试经验](https://articles.zsxq.com/id_lqrtk9gw09em.html)
+  - [【面试题】夸克大模型岗位面试经验](https://articles.zsxq.com/id_zdwgdugqtsfv.html)
+  - [【面试题】商汤大模型岗位面试经验](https://articles.zsxq.com/id_jqqijcw65kn8.html)
+  - [【面试题】荣耀算法面试题汇总](https://articles.zsxq.com/id_i1nctpe2omd4.html)
+  - [【面试题】太初算法面试题汇总](https://articles.zsxq.com/id_hnsd2wqigw58.html)
+  - [【面试题】长亭科技大模型算法工程师面试题](https://articles.zsxq.com/id_whqpje6ulknr.html)
+  - [【面试题】科大讯飞算法面试题汇总](https://articles.zsxq.com/id_uj5vo4sakkds.html)
+  - [【面试题】SHEIN 算法面试题汇总](https://articles.zsxq.com/id_73whcf53adtj.html)
+  - [【面试题】滴滴算法面试题汇总](https://articles.zsxq.com/id_fsh1dw4mmeq3.html)
+  - [【面试题】金山 大模型算法工程师面试题](https://articles.zsxq.com/id_muckas6i6f9b.html)
+  - [【面试题】平安科技 大模型算法工程师面试题](https://articles.zsxq.com/id_0sp8g6bww9dq.html)
+  - [【面试题】海康威视 大模型算法工程师面试题](https://articles.zsxq.com/id_3kd9r8ii9vod.html)
+  - [【面试题】理想汽车大模型算法工程师面试题](https://articles.zsxq.com/id_2go0kqh0q5ox.html)
+  - [【面试题】MiniMax大模型岗位面试经验](https://articles.zsxq.com/id_itgeo20oa5ch.html)
 
 ## 机器视觉算法岗
 
