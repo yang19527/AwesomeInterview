@@ -2,7 +2,7 @@
 
 包含程序员面试大厂面试题和面试经验
 
-
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/goiboxqfW2fYU4UrnNhiaS7UvNxic6vibCqicPcNnNQic02zO1ia6ZhrkRbvZfltWe8EUvibOIcNIIoSNmqx0Qs09xGghg/640?wx_fmt=jpeg&from=appmsg&wxfrom=13)
 
 ## 大模型算法岗
 
