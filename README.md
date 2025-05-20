@@ -2,7 +2,7 @@
 
 大厂大模型算法岗常考题汇总
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/goiboxqfW2fYU4UrnNhiaS7UvNxic6vibCqicPcNnNQic02zO1ia6ZhrkRbvZfltWe8EUvibOIcNIIoSNmqx0Qs09xGghg/640?wx_fmt=jpeg&from=appmsg&wxfrom=13)
+![](https://github.com/yang19527/AIGCInterview/blob/main/zsxq.jpg)
 
 
 ## 大模型算法岗
